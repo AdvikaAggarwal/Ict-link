@@ -1,0 +1,56 @@
+.heading
+{
+    color: lightblue;
+    font-size: 30px;        
+    font-family: Georgia, 'Times New Roman', Times, serif;                                                                                            
+}
+.no1
+{
+    color: rgb(194, 40, 91);
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;  
+    
+}
+.no2
+{
+    color:cadetblue;
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;  
+}
+.no3
+{
+    color:rgb(60, 255, 148);
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;  
+}
+.no4
+{
+    color:rgb(255, 255, 134);
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;  
+}
+.no5
+{
+    color:rgb(171, 68, 255);
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;  
+}
+.no6
+{
+    color: rgb(255, 177, 87);
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;  
+}
+.no7
+{
+    color:rosybrown;
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;  
+}
+
+.common
+{
+    font-size: 18px;
+    color: rgb(255, 255, 255);
+    font-family: Georgia, 'Times New Roman', Times, serif;  
+}
